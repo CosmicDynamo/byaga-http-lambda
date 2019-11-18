@@ -1,0 +1,14 @@
+{
+  "name": "@byaga/http-lambda",
+  "version": "0.1.0",
+  "description": "Utility Methods for lambdas that are called by AWS API Gateway",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CosmicDynamo",
+  "license": "MIT",
+  "dependencies": {
+    "deepmerge": "^4.2.2"
+  }
+}
