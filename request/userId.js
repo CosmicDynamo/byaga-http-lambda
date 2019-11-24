@@ -1,3 +1,3 @@
-const userId = event => event.identity.cognitoIdentityId;
+const userId = event => (event.identity || {}) .cognitoIdentityId;
 
 module.exports = userId;
