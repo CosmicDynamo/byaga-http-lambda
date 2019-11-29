@@ -1,6 +1,6 @@
 {
   "name": "@byaga/http-lambda",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Utility Methods for lambdas that are called by AWS API Gateway",
   "main": " ",
   "scripts": {
