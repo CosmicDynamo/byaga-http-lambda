@@ -1,1 +1,3 @@
-export default (name, event) => event.pathParameters[name]
+const path = (name, event) => event.pathParameters[name]
+
+module.exports = path;
